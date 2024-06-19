@@ -1,0 +1,19 @@
+.odd{
+    background-color: rgb(240, 6, 84);
+    font-family: 'Verdana','DejaVu Sans',sans-serif ;
+    fallbac
+}
+#first{
+    color: rgb(0,0,244);
+    font-size: 36px;
+
+
+}
+.font-size{
+    font-size: 24px;
+}
+#fourth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
